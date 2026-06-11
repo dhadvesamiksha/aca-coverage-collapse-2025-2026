@@ -1,6 +1,6 @@
 # Priced Out: Mapping the ACA Coverage Collapse Across U.S. States (2025-2026)
 
-![Dashboard Preview](dashboard .png)
+![Dashboard Preview](dashboard.png)
 
 ## Overview
 
