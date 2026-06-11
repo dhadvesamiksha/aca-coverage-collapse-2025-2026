@@ -8,7 +8,7 @@
 
 This project uses CMS Open Enrollment Period data for 2025 and 2026 across all 51 states to answer three questions: where did the collapse hit hardest, how are remaining enrollees coping, and which states face the greatest exposure to future losses.
 
-**[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/samiksha.dhadve2402/viz/ACAenrollment_17811212776110/Dashboard1)**
+**[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/samiksha.dhadve2402/viz/ACAenrollment_17811212776110/Dashboard1?publish=yes)**
 
 > Open in full screen for the best experience. Click any state on the map to filter all charts to that state.
 
